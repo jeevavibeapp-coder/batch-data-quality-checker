@@ -1,0 +1,12 @@
+emp_id,name,email,department,salary,hire_date,status
+1,Alice Johnson,alice@example.com,Engineering,95000,2022-03-15,ACTIVE
+2,Bob Smith,bob@example.com,Sales,72000,2021-07-20,ACTIVE
+3,Carol Lee,carol@example.com,HR,65000,2020-11-05,ACTIVE
+4,Dave Kumar,,Engineering,88000,2023-01-10,ACTIVE
+5,Eve Chen,eve@example.com,Marketing,78000,2022-08-30,INACTIVE
+6,Frank Obi,frank@example.com,Engineering,91000,2021-04-15,ACTIVE
+7,Grace Park,not-an-email,Sales,67000,2022-12-01,ACTIVE
+8,Henry Adams,henry@example.com,Engineering,105000,2019-06-20,ACTIVE
+9,Iris Nair,iris@example.com,HR,62000,2023-03-05,ACTIVE
+10,Jack Tran,jack@example.com,Sales,-5000,2022-09-15,ACTIVE
+1,Alice Johnson,alice@example.com,Engineering,95000,2022-03-15,ACTIVE

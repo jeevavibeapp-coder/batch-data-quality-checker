@@ -1,0 +1,13 @@
+{
+  "row_count": { "min_rows": 5, "max_rows": 10000 },
+  "duplicates": { "key_columns": ["emp_id"], "max_dup_pct": 0.0 },
+  "columns": [
+    { "name": "emp_id",     "max_null_pct": 0.0,  "type": "integer" },
+    { "name": "name",       "max_null_pct": 0.0 },
+    { "name": "email",      "max_null_pct": 5.0,  "type": "email" },
+    { "name": "department", "max_null_pct": 0.0,  "allowed_values": ["Engineering","Sales","HR","Marketing","Finance"] },
+    { "name": "salary",     "max_null_pct": 0.0,  "type": "numeric", "min_val": 0, "max_val": 500000 },
+    { "name": "hire_date",  "max_null_pct": 0.0,  "type": "date" },
+    { "name": "status",     "max_null_pct": 0.0,  "allowed_values": ["ACTIVE","INACTIVE","TERMINATED"] }
+  ]
+}

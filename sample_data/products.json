@@ -1,0 +1,9 @@
+[
+  {"product_id":"P001","name":"Widget A","category":"Electronics","price":29.99,"stock":150,"active":true},
+  {"product_id":"P002","name":"Widget B","category":"Electronics","price":-5.00,"stock":80,"active":true},
+  {"product_id":"P003","name":"Gadget X","category":"Gadgets","price":149.99,"stock":0,"active":false},
+  {"product_id":"P004","name":"Gadget Y","category":"Gadgets","price":199.99,"stock":25,"active":true},
+  {"product_id":"P005","name":"Tool Z","category":"Tools","price":49.99,"stock":null,"active":true},
+  {"product_id":"P006","name":"Device A","category":"Electronics","price":89.99,"stock":60,"active":true},
+  {"product_id":"P001","name":"Widget A","category":"Electronics","price":29.99,"stock":150,"active":true}
+]

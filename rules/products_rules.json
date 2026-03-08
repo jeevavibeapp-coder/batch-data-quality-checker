@@ -1,0 +1,10 @@
+{
+  "row_count": { "min_rows": 1 },
+  "duplicates": { "key_columns": ["product_id"], "max_dup_pct": 0.0 },
+  "columns": [
+    { "name": "product_id", "max_null_pct": 0.0, "regex": "^P\\d{3}$" },
+    { "name": "name",       "max_null_pct": 0.0 },
+    { "name": "price",      "max_null_pct": 0.0, "type": "numeric", "min_val": 0 },
+    { "name": "stock",      "max_null_pct": 5.0, "type": "numeric", "min_val": 0 }
+  ]
+}
